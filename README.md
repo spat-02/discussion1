@@ -1,3 +1,3 @@
 # discussion1
 
-<h3>Samir Patel</h3>
+<h1>Samir Patel</h1>
